@@ -1,0 +1,17 @@
+*{box-sizing: border-box;}
+.header{
+    display: flex;
+    padding:10px;
+    height: 50px;
+    align-items: center;
+    color:white;
+    background: linear-gradient(90deg,#672280 1.18% ,#A626D3 100%);
+}
+.title{
+    margin-right: auto;
+    font-size: 20px;
+}
+.image {
+    height: 100%;
+    margin-right: 6px;
+}
